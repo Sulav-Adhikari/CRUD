@@ -1,0 +1,44 @@
+{
+  "interns": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "address": "123 Main St",
+      "selectionStatus": false
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "address": "456 Elm St",
+      "selectionStatus": true
+    },
+    {
+      "id": "3",
+      "name": "Jane Smith",
+      "address": "456 Oak St",
+      "dob": "1991-02-02",
+      "selectionStatus": false
+    },
+    {
+      "id": "4554",
+      "name": "hdghde",
+      "address": "dasbndb",
+      "dob": "2024-01-30",
+      "selectionStatus": true
+    },
+    {
+      "id": "9946",
+      "name": "asnd,m",
+      "address": "dsa,.masd",
+      "dob": "2024-02-06",
+      "selectionStatus": true
+    },
+    {
+      "id": "023f",
+      "name": "ncxm,nz",
+      "address": "dassd",
+      "dob": "2024-02-07",
+      "selectionStatus": true
+    }
+  ]
+}

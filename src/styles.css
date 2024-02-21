@@ -1,0 +1,22 @@
+/* styles.css */
+
+.container {
+    background-color: #f0f8ea; /* Light green background */
+    padding: 20px;
+  }
+  
+  .btn-primary {
+    background-color: #4caf50; /* Green button */
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #45a049; /* Darker green on hover */
+  }
+  
+  .alert-success {
+    background-color: #dff0d8; /* Light green alert */
+    border-color: #d6e9c6;
+    color: #3c763d;
+  }
+  
